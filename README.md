@@ -24,3 +24,4 @@
        Si  i=/= 0 entonces
       Escribir "i_no_es_divisor_de_n"
 Fin
+![Diagrama de flujo A](https://github.com/user-attachments/assets/d0118d1f-c60e-4265-8715-80e601779bdb)
