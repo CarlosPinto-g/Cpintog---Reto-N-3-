@@ -24,10 +24,3 @@
        Si  i=/= 0 entonces
       Escribir "i_no_es_divisor_de_n"
 Fin
-
-
-
-### Diagrama de flujo.
-[![Diagrama-de-flujo-A.png](https://i.postimg.cc/C1WYSmPg/Diagrama-de-flujo-A.png)](https://postimg.cc/34CzZCQS)
-
-[![Diagrma-de-flujo-B.png](https://i.postimg.cc/J7kMPC04/Diagrma-de-flujo-B.png)](https://postimg.cc/23rsSJnP)
