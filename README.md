@@ -24,6 +24,7 @@
        Si  i=/= 0 entonces
       Escribir "i_no_es_divisor_de_n"
 Fin
+---
 
 ## Diagrama de flujo.
 
