@@ -1,3 +1,5 @@
+![Diagrma de flujo B](https://github.com/user-attachments/assets/c83006ef-7700-44f1-890a-e461838a834b)
+![Diagrama de flujo A](https://github.com/user-attachments/assets/b72eee59-c2e6-45bc-b9ca-16f5a3a6fe79)
 # Reto N°3
 ###### <p> En este repo, se planteará un algoritmo para obtener los números primos hasta n, usando pseudocódigo, seguido de un diagrama de flujo.
 
