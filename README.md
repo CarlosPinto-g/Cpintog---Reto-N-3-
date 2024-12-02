@@ -26,8 +26,8 @@
 Fin
 
 ### Diagrama de flujo.
+[![Diagrama-de-flujo-A.png](https://i.postimg.cc/C1WYSmPg/Diagrama-de-flujo-A.png)](https://postimg.cc/34CzZCQS)
 
-http://app.diagrams.net/#G1Snyx3sx5nukUNSsUs1emZb-ehlY_D8kl#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D
 
 
 
