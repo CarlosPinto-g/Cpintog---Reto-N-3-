@@ -27,8 +27,7 @@ Fin
 
 ### Diagrama de flujo.
 
-
-[Diagrama de flujo](http://app.diagrams.net/#G1Snyx3sx5nukUNSsUs1emZb-ehlY_D8kl#%7B"pageId"%3A"C5RBs43oDa-KdzZeNtuy"%7D "Diagrama de flujo")
+http://app.diagrams.net/#G1Snyx3sx5nukUNSsUs1emZb-ehlY_D8kl#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D
 
 
 
