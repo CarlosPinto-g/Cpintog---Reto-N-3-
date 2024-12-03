@@ -20,11 +20,16 @@
       Sino
        Si  i=/= 0 entonces
       Escribir "i_no_es_divisor_de_n"
-       i+1=1nstrucciones
+       i+1=1
+    fin
 ```
 ``
 
-![Diagrma de flujo B](https://github.com/user-attachments/assets/06f74358-e33b-431a-af07-dd50d461c513)
-![Diagrama de flujo A](https://github.com/user-attachments/assets/b9a2de0f-864b-4747-9ce8-18bf5f403ae9)
+
+![Diagrama de flujo A](https://github.com/user-attachments/assets/894efeee-22ef-4000-83c6-91523f5474a5)
+
+![Diagrma de flujo C](https://github.com/user-attachments/assets/5b1ea254-a916-4d63-9938-ca604a459b33)
+
+
 
 
