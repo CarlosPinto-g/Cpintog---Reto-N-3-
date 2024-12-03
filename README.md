@@ -9,10 +9,8 @@
 
 ------------
 - Algoritmo para obtener los números primos hasta n
-
 ```pseudocode
-  instrucciones
-    lista = [2,3,4,5,6...n]
+  lista = [2,3,4,5,6...n]
 	i=2
 	inicio
 	 si_(i<n)hacer
@@ -22,16 +20,11 @@
       Sino
        Si  i=/= 0 entonces
       Escribir "i_no_es_divisor_de_n"
-Fin
-´´´
+       i+1=1nstrucciones
+```
+``
 
-## Diagrama de flujo.
-
-
-
-
+![Diagrma de flujo B](https://github.com/user-attachments/assets/06f74358-e33b-431a-af07-dd50d461c513)
+![Diagrama de flujo A](https://github.com/user-attachments/assets/b9a2de0f-864b-4747-9ce8-18bf5f403ae9)
 
 
-
-![Diagrma de flujo B](https://github.com/user-attachments/assets/c83006ef-7700-44f1-890a-e461838a834b)
-![Diagrama de flujo A](https://github.com/user-attachments/assets/b72eee59-c2e6-45bc-b9ca-16f5a3a6fe79)
