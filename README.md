@@ -10,10 +10,10 @@
 ------------
 - Algoritmo para obtener los números primos hasta n
 ```pseudocode
-  lista = [2,3,4,5,6...n]
+inicio
+  lista de i = [2,3,4,5,6...n-1]      
 	i=2
-	inicio
-	 si_(i<n)hacer
+	 si_(i<n)hacer-
 	  cociente_residuo = (n/ i)
      Si (i== 0)entonces
         Escribir "i_es_divisor_de_n "
@@ -21,6 +21,7 @@
        Si  i=/= 0 entonces
       Escribir "i_no_es_divisor_de_n"
        i+1=1
+       
     fin
 ```
 ``
