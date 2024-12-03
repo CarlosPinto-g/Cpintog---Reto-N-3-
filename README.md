@@ -12,7 +12,6 @@
 
 ```pseudocode
   instrucciones
-``` .
     lista = [2,3,4,5,6...n]
 	i=2
 	inicio
@@ -24,7 +23,7 @@
        Si  i=/= 0 entonces
       Escribir "i_no_es_divisor_de_n"
 Fin
----
+´´´
 
 ## Diagrama de flujo.
 
